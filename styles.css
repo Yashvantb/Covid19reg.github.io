@@ -1,0 +1,76 @@
+.myform
+{
+	width:380px;
+        Height:460px;
+	font-size:30px;
+	margin: 120px;
+	padding: 20px;
+	border:solid 2px Grey;
+	border-radius:3px;
+}
+
+
+.myform input
+{
+	position:relative;
+     
+    left:5%;
+	width:82%;
+	padding:10px;  
+	margin:1px;
+        border-radius:3px;
+		background-color:#DCDCDC
+		
+}
+.myform label
+{       font-family: Arial, Helvetica, sans-serif;
+	width:90%;
+
+         font-size: 18px;
+	padding:2px;  
+	margin:5px;
+}
+.myform button
+{
+	position:relative;
+     
+    left:1.5%;
+	background-color: #ADD8E6;
+	width:88%;
+	padding:8px;  
+	margin:16px;
+    border-radius=5px; 
+	
+	
+}
+.myform textarea
+{
+	background:#00aaff;
+	width:90%;
+	padding:2px;  
+	margin:5px;
+
+}
+.Log_Inbutton
+
+{   
+ background-color: #ADD8E6;    width:97%;
+	padding:10px;  
+	margin:5px;
+	
+        	
+        font-family: Arial, Helvetica, sans-serif;
+	 font-size:20px;
+         border-radius=5px;
+		
+}
+.Registernutton
+{		
+background-color: #ADD8E6;    width:97%;
+margin-left:250px;
+        width:30%;
+	
+	border-radius=5px;
+	font-size:30px;
+	margin-top:-50px;
+}
